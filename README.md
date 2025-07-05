@@ -9,13 +9,17 @@
 
 ---
 
-## 🔧 Yetkinliklerim
-
-- ✅ C#, ASP.NET, Entity Framework Core  
-- ✅ SQL (Oracle HR veritabanı ile çalışmalar)  
-- ✅ Katmanlı Mimari (N-Tier Architecture)  
-- ✅ Temel JavaScript ve HTML bilgisi  
-- ✅ Git & GitHub  
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23007ACC.svg?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -41,3 +45,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirverir&theme=dark&hide_border=false&layout=compact)
 
 ---
+
+## 👁️ Ziyaretçi Sayacı
+
+[![](https://visitcount.itsvg.in/api?id=bahadirverir&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Profil README dosyası ChatGPT tarafından oluşturulmuştur. -->
