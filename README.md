@@ -27,7 +27,7 @@
 
 🔹 [ASP.NET Ntier-RestApi](https://github.com/bahadirverir/Ntier-RestApi) – Katmanlı mimari ile geliştirilen ASP.NET Core Web API projesi  
 🔹 [Oracle-SQL](https://github.com/bahadirverir/Oracle-SQL-50-Soruda) – HR veritabanı üzerinde 50 Soru SQL uygulaması  
-🔹 [DatabaseDesign](https://github.com/bahadirverir/Oracle-SQL-50-Soruda) – Firma Veritabanı Tasarımı
+🔹 [DatabaseDesign](https://github.com/bahadirverir/CompanyDatabaseDesign) – Firma Veritabanı Tasarımı
 
 
 ---
