@@ -1,6 +1,8 @@
 # 👋 Merhaba, ben Bahadır
 
-💻 İstanbul Aydın Üniversitesi Bilgisayar Programcılığı mezunuyum 
+💻 İstanbul Aydın Üniversitesi Bilgisayar Programcılığı mezunuyum
+
+
 🚀 C# | ASP.NET Core | Web API | SQL | Katmanlı Mimari | Git & GitHub  
 📊 Veri tabanı projeleri, REST API uygulamaları ve .NET tabanlı sistemler geliştiriyorum  
 📚 Şu anda .NET ile Back-End geliştirmeye odaklanıyorum  
