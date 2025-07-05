@@ -24,7 +24,7 @@
 ## 📫 Bana Ulaşın
 
 - E-posta: bhdrverir@gmail.com.com  
-- LinkedIn: [linkedin.com/in/bahadirverir](www.linkedin.com/in/bahadır-verir-849563307)  
+- LinkedIn: (www.linkedin.com/in/bahadır-verir-849563307)  
 - GitHub: [github.com/bahadirverir](https://github.com/bahadirverir)
 
 ---
