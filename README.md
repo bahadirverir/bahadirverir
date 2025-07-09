@@ -1,3 +1,4 @@
+<h1 align="center">🛠️ Kod Yazmak Zanaattır ⚙️</h1>
 # 👋 Merhaba, ben Bahadır
 
 💻 İstanbul Aydın Üniversitesi Bilgisayar Programcılığı mezunuyum  
