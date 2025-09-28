@@ -1,12 +1,14 @@
-<h1 align="center">🛠️ Kod Yazmak Zanaattır ⚙️</h1>
-# 👋 Merhaba, ben Bahadır
+<h1 align="center">🛠️ Coding is a Craft ⚙️</h1>
+# 👋 Hi, I'm Bahadır  
 
-💻 İstanbul Aydın Üniversitesi Bilgisayar Programcılığı mezunuyum  
+  
+  
+💻 Graduated in Computer Programming from Istanbul Aydın University   
 
-🚀 C# | ASP.NET Core | Web API | SQL | Katmanlı Mimari | Git & GitHub  
-📊 Veri tabanı projeleri, REST API uygulamaları ve .NET tabanlı sistemler geliştiriyorum  
-📚 Şu anda .NET ile Back-End geliştirmeye odaklanıyorum  
-🌱 Yeni şeyler öğrenmeyi ve projeler üretmeyi seviyorum  
+🚀 C# | ASP.NET Core | Web API | SQL | N-Tier Architecture | Git & GitHub   
+📊 I develop database projects, RESTful API applications, and .NET-based systems   
+📚 Currently focusing on Back-End Development with .NET  
+🌱 Passionate about learning new technologies and building real-world projects  
 
 ---
 
@@ -24,16 +26,16 @@
 
 ---
 
-## 📂 Öne Çıkan Projeler
+## 📂 Featured Projects
 
-🔹 [ASP.NET Ntier-RestApi](https://github.com/bahadirverir/Ntier-RestApi) – Katmanlı mimari ile geliştirilen ASP.NET Core Web API projesi  
-🔹 [Oracle-SQL](https://github.com/bahadirverir/Oracle-SQL-50-Soruda) – HR veritabanı üzerinde 50 Soru SQL uygulaması  
-🔹 [DatabaseDesign](https://github.com/bahadirverir/CompanyDatabaseDesign) – Firma Veritabanı Tasarımı
+🔹 [ASP.NET Ntier-RestApi](https://github.com/bahadirverir/Ntier-RestApi) – N-Tier Architecture ASP.NET Core Web API project  
+🔹 [Oracle-SQL](https://github.com/bahadirverir/Oracle-SQL-50-Soruda) – 50 SQL queries practice on HR database  
+🔹 [DatabaseDesign](https://github.com/bahadirverir/CompanyDatabaseDesign) – Relational database design for a company structure  
 
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 
 - 📧 E-posta: bhdrverir@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/bahadır-verir-849563307](https://www.linkedin.com/in/bahadır-verir-849563307)  
@@ -41,7 +43,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=bahadirverir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahadirverir&theme=dark&hide_border=false)  
