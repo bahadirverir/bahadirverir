@@ -1,8 +1,7 @@
 <h1 align="center">🛠️ Coding is a Craft ⚙️</h1>
 # 👋 Hi, I'm Bahadır  
+<br><br>  
 
-  
-  
 💻 Graduated in Computer Programming from Istanbul Aydın University   
 
 🚀 C# | ASP.NET Core | Web API | SQL | N-Tier Architecture | Git & GitHub   
@@ -37,7 +36,7 @@
 
 ## 📫 Contact Me
 
-- 📧 E-posta: bhdrverir@gmail.com  
+- 📧 E-mail: bhdrverir@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/bahadır-verir-849563307](https://www.linkedin.com/in/bahadır-verir-849563307)  
 - 🖥️ GitHub: [github.com/bahadirverir](https://github.com/bahadirverir)
 
