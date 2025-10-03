@@ -28,7 +28,7 @@
 ## 📂 Featured Projects
 
 🔹 [ASP.NET Ntier-RestApi](https://github.com/bahadirverir/Ntier-RestApi) – N-Tier Architecture ASP.NET Core Web API project  
-🔹 [Oracle-SQL](https://github.com/bahadirverir/Oracle-SQL-50-Soruda) – 50 SQL queries practice on HR database  
+🔹 [Oracle-SQL](https://github.com/bahadirverir/Oracle-SQL-50-Questions) – 50 SQL queries practice on HR database  
 🔹 [DatabaseDesign](https://github.com/bahadirverir/CompanyDatabaseDesign) – Relational database design for a company structure  
 
 
