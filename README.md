@@ -1,10 +1,11 @@
 <h1 align="center">🛠️ Coding is a Craft ⚙️</h1>
-# 👋 Hi, I'm Bahadır  
-<br><br>  
+<h3 align="center">👋 Hi, I'm Bahadır</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahadirverir&color=0e75b6" alt="Profile Views" />
+</p>
+🚀 C# | ASP.NET Core | Web API | SQL | N-Tier Architecture | Git & GitHub    
 
-💻 Graduated in Computer Programming from Istanbul Aydın University   
-
-🚀 C# | ASP.NET Core | Web API | SQL | N-Tier Architecture | Git & GitHub   
+💻 Graduated in Computer Programming from Istanbul Aydın University  
 📊 I develop database projects, RESTful API applications, and .NET-based systems   
 📚 Currently focusing on Back-End Development with .NET  
 🌱 Passionate about learning new technologies and building real-world projects  
@@ -47,5 +48,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bahadirverir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahadirverir&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirverir&theme=dark&hide_border=false&layout=compact)
+
 
 ---
